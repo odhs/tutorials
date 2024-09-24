@@ -40,4 +40,10 @@ Se ocorrer um evento catastrófico em uma região as outras regiões ainda estar
 
 ### Previsibilidade
 
-A previsibilidade na nuvem permite que você avance com confiança.
+A previsibilidade na nuvem permite que você avance com confiança, seja no desempenho ou no custo.
+Ambas são influenciadas pelo Microsoft Azure Well-Architected Framework.
+A nuvem oferece muitas ferramentas de segurança que atendem às necessidades dos clientes mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
+
+**Se você quiser o controle máximo da segurança**, a _infraestrutura como serviço_ fornecerá recursos físicos, mas permitirá que você gerencie os sistemas operacionais e o software instalado, incluindo aplicação de patches e manutenção.
+
+Se você quiser que a aplicação de patches e a manutenção sejam automáticas você vai utilizar _software como serviço_.

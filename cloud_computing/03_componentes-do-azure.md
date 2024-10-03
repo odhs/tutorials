@@ -61,3 +61,11 @@ Os aplicativos podem utilizar vários grupos de recursos.
 Resumo: Um grupo de recursos é um contêiner que você usa para gerenciar e agregar recursos em uma única unidade.
 
 Regras poderão ser aplicadas a um grupo de recursos.
+
+## Assinaturas do Azure
+
+Conta Azure
+
+- Assinatura do desenvolvimento
+- Assinatura de teste
+- Assinatura de produção

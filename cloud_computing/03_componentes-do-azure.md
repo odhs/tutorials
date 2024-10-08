@@ -62,6 +62,10 @@ Resumo: Um grupo de recursos é um contêiner que você usa para gerenciar e agr
 
 Regras poderão ser aplicadas a um grupo de recursos.
 
+RESUMO:
+
+- Os grupos de recursos podem conter apenas recursos de uma mesma região.
+
 ## Assinaturas do Azure
 
 Conta Azure
@@ -69,3 +73,41 @@ Conta Azure
 - Assinatura do desenvolvimento
 - Assinatura de teste
 - Assinatura de produção
+
+## Hierarquia de grupos de recursos, assinaturas e grupos de gerenciamento
+
+
+
+# Exercícios anotados porque não estavam na matéria
+
+1. As zonas de disponibilidade permitem que clientes executem aplicativos essenciais com quais benefícios?
+
+- Alta disponibilidade e Replicação de baixa latência
+
+2. Qual objeto do Microsoft Azure contém **múltiplos datacenters** que são **conectados** por uma **rede de baixa latência**?
+
+- Uma geografia
+- **Uma região** (CORRETA)
+- Um conjunto de disponibilidade
+- Um par
+
+3. Os **conjuntos de disponibilidade** são compostos por quais dos itens a seguir?
+
+- Domínios de atualização
+- Uma geografia
+- Pares de regiões
+- **Domínios de atualização e domínios de falha** (CORRETA)
+
+4. As **zonas de disponibilidade** permitem que clientes executem aplicativos essenciais com quais **benefícios**?
+
+- **Alta disponibilidade e Replicação de baixa latência** (CORRETA)
+- Backup externo e Camadas de segurança da rede
+- Migração ao vivo
+- Segurança de blob
+
+5. É um contêiner que você usa para gerenciar e agregar recursos em uma única unidade. ​
+
+- Zona de Disponibilidade
+- Datacenter
+- Região
+- Grupo de Recursos (CORRETA)
